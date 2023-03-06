@@ -163,7 +163,7 @@ body {
 }
 
 .main_bg {
-    background: url(/img/header/background.png);
+    background-image: url(../img/header/background.png);
     background-repeat: no-repeat;
     background-size: cover;
     overflow: hidden;
